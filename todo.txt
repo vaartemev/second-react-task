@@ -1,0 +1,23 @@
+TODO:
+
+install react packages (react, react-dom etc.)
+install and configure webpack packages
+install and configure babel (es6, jsx)
+install and configure html-webpack-plugin
+move your react examples from sandbox
+make several npm script commands to run application
+add webpack plugins to support css (sass and post-css) and custom files (svg, fonts, favicon)
+
+---------------------------------------ready
+
+
+make different build configurations
+install webpack-dev-server and configure "debug" configuration
+configure bundle for "prod" configuration
+Save changes in your git repository
+
+Additionally (optionally):
+
+Add support of eslint and configure it
+Add support of stylelint and configure it (with prettier)
+Mono-repository approach (e.g. lerna.js)
